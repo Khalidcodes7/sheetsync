@@ -27,3 +27,4 @@ git clone https://github.com/Khalidcodes7/sheetsync.git
 
 cd sheetsync
 pip install -e ".[dev]"
+
