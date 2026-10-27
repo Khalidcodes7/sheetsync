@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Testing
+.pytest_cache/
+
+# Secrets & Credentials (VERY IMPORTANT!)
+credentials.json
+token.json
+.env
+
+# Output files
+*.csv
+*.xlsx
+output/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
